@@ -12,6 +12,7 @@ createRoot(document.getElementById('root')).render(
      {/* <Index /> */}
      {/* <Page /> */}
      {/* <PageOne /> */}
-     <PageThree />
+     <PageThree /> 
+    
   </StrictMode>,
 )
